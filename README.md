@@ -3,9 +3,14 @@
 
 The goal of the theme is to combine a dark background with clear colors.
 
+Changes:
+
+- Darker background
+- Clearer blue
+
 ## Install
 
-Throught the graphical interface or using
+Install using the settings menu or using the command
 ```
 apm install mykai-theme
 ```
