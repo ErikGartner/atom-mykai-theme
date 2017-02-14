@@ -1,0 +1,12 @@
+{
+  "name": "mykai-theme",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": true,
+  "description": "My take on the Monokai theme",
+  "repository": "https://github.com/ErikGartner/atom-mykai-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0"
+  }
+}
